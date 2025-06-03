@@ -18,11 +18,11 @@ To run the game properly, make sure you have:
 
 ## Bitmap Configuration
 
-Unit width in pixels: 1
-Unit height in pixels: 1
-Display width in pixels: 256
-Display height in pixels: 512
-Base Address: 0x10010000
+- Unit width in pixels: 1
+- Unit height in pixels: 1
+- Display width in pixels: 256
+- Display height in pixels: 512
+- Base Address: 0x10010000
 
 ---
 
